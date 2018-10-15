@@ -1,5 +1,10 @@
-const Discord('discord.js');
-const Discord.Client('discord.js');
-const TOKEN('498077579937316864');
+const require('discord.js);
+const Discord('Discord.Client');
+const TOKEN('498077579937316864')
 
-const.login('TOKEN');
+if.bot.online - 
+  cmd: message.require('hello')
+respond('hi');
+)];
+
+const login('TOKEN')
